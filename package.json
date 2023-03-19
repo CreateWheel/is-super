@@ -1,6 +1,6 @@
 {
   "name": "is-super",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if the process is running as superuser",
   "main": "index.cjs",
   "module": "index.mjs",
