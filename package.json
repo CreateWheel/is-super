@@ -1,0 +1,28 @@
+{
+  "name": "is-super",
+  "version": "1.0.0",
+  "description": "Check if the process is running as superuser",
+  "main": "index.cjs",
+  "module": "index.mjs",
+  "exports": {
+    "import": "./index.mjs",
+    "require": "./index.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CreateWheel/is-super.git"
+  },
+  "keywords": [
+    "admin",
+    "administrator",
+    "root",
+    "super",
+    "sudo"
+  ],
+  "author": "Lete114 <me@imlete.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CreateWheel/is-super/issues"
+  },
+  "homepage": "https://github.com/CreateWheel/is-super#readme"
+}
